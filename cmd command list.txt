@@ -1,0 +1,6 @@
+I do not recommend using these commands, as they are only needed by me and may not work for you due to uninstalled dependencies.
+Я не рекомендую использовать эти команды, так как они нужны только мне и могут не работать у вас из-за неустановленных зависимостей.
+
+1) $ auto-py-to-exe
+  (Create an .exe file from a Python script/Создать .exe-файл из скрипта Python)
+  Подробнее - https://pypi.org/project/auto-py-to-exe/
